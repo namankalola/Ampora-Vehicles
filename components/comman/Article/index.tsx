@@ -43,5 +43,4 @@ const Article = ({ item, className }: ArticleProps) => {
     </div>
   );
 };
-
 export default Article;
