@@ -53,7 +53,7 @@ const Team = ({ members }: TeamProps) => {
             MEET THE TEAM
           </div>
           <h1 className="animate mt-4 font-onest text-5xl font-medium leading-[1.2] text-neutral-950 lg:text-7xl">
-            The Visionaries Behind Voltz Motors
+            The Visionaries Behind Ampora Motors
           </h1>
         </div>
 

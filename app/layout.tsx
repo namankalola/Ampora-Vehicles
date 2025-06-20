@@ -14,7 +14,7 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "Voltz",
+  title: "Ampora",
   description: "The Electric Car UI Template",
 };
 

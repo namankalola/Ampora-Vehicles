@@ -9,7 +9,7 @@ export const pricing_plans = [
     benefits: [
       { name: "Priority service booking" },
       { name: "24/7 roadside assistance" },
-      { name: "Access to Voltz Network" },
+      { name: "Access to Ampora Network" },
       { name: "Basic app control features" },
       { name: "Monthly software updates" },
       { name: "Digital owner dashboard" },
@@ -27,7 +27,7 @@ export const pricing_plans = [
       { name: "Enhanced app controls" },
       { name: "35% charging discounts" },
       { name: "Priority support + courtesy" },
-      { name: "Access to Voltz Lounges" },
+      { name: "Access to Ampora Lounges" },
       { name: "Beta features & software previews" },
     ],
   },

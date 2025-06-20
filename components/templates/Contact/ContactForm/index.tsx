@@ -86,10 +86,10 @@ const ContactForm = () => {
                   Email Address
                 </div>
                 <a
-                  href="mailto:hello@voltz.com"
+                  href="mailto:hello@ampora.com"
                   className="mt-4 inline-block font-figtree text-sm font-medium uppercase text-neutral-950 underline decoration-neutral-300 underline-offset-4 hover:decoration-neutral-500 transition-all duration-200"
                 >
-                  HELLO@VOLTZ.COM
+                  HELLO@AMPORA.COM
                 </a>
               </div>
             </div>

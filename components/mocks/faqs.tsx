@@ -30,30 +30,30 @@ export const faqs = [
     ],
   },
   {
-    title: "About Voltz",
+    title: "About Ampora",
     items: [
       {
-        question: "What is Voltz's mission?",
+        question: "What is Ampora's mission?",
         answer:
-          "Voltz is committed to accelerating the world’s transition to sustainable mobility by creating innovative, accessible electric vehicles.",
+          "Ampora is committed to accelerating the world’s transition to sustainable mobility by creating innovative, accessible electric vehicles.",
       },
       {
-        question: "Where is Voltz headquartered?",
+        question: "Where is Ampora headquartered?",
         answer:
           "We are headquartered in California, with offices and manufacturing facilities across North America and Europe.",
       },
       {
-        question: "What sets Voltz apart from other EV companies?",
+        question: "What sets Ampora apart from other EV companies?",
         answer:
-          "Voltz focuses on seamless user experience, future-forward technology, and eco-conscious design throughout the vehicle lifecycle.",
+          "Ampora focuses on seamless user experience, future-forward technology, and eco-conscious design throughout the vehicle lifecycle.",
       },
       {
-        question: "How long has Voltz been in business?",
+        question: "How long has Ampora been in business?",
         answer:
-          "Voltz was founded in 2020 with a vision to reshape the future of electric transportation for everyday drivers.",
+          "Ampora was founded in 2020 with a vision to reshape the future of electric transportation for everyday drivers.",
       },
       {
-        question: "Can I visit a Voltz showroom?",
+        question: "Can I visit a Ampora showroom?",
         answer:
           "Yes! We’re opening experience centers in major cities. You can also explore and test drive online with our virtual tools.",
       },
@@ -63,29 +63,29 @@ export const faqs = [
     title: "Vehicles & Technology",
     items: [
       {
-        question: "What kind of battery do Voltz vehicles use?",
+        question: "What kind of battery do Ampora vehicles use?",
         answer:
-          "Voltz vehicles use advanced lithium-ion battery packs with intelligent thermal management and extended cycle life.",
+          "Ampora vehicles use advanced lithium-ion battery packs with intelligent thermal management and extended cycle life.",
       },
       {
         question: "Do your vehicles support fast charging?",
         answer:
-          "Yes, all Voltz vehicles are compatible with Level 3 DC fast charging and support plug-and-charge for seamless use.",
+          "Yes, all Ampora vehicles are compatible with Level 3 DC fast charging and support plug-and-charge for seamless use.",
       },
       {
-        question: "What smart features come with Voltz cars?",
+        question: "What smart features come with Ampora cars?",
         answer:
           "Each vehicle includes autonomous driving assistance, over-the-air updates, a customizable digital cockpit, and app connectivity.",
       },
       {
-        question: "Are Voltz vehicles AWD or FWD?",
+        question: "Are Ampora vehicles AWD or FWD?",
         answer:
           "We offer both All-Wheel Drive (AWD) and Front-Wheel Drive (FWD) configurations, depending on the model you choose.",
       },
       {
         question: "Can I upgrade vehicle features later?",
         answer:
-          "Yes! Voltz supports feature upgrades over-the-air, including software unlocks for performance, navigation, and entertainment.",
+          "Yes! Ampora supports feature upgrades over-the-air, including software unlocks for performance, navigation, and entertainment.",
       },
     ],
   },
@@ -93,9 +93,9 @@ export const faqs = [
     title: "Ownership & Support",
     items: [
       {
-        question: "What warranty comes with my Voltz?",
+        question: "What warranty comes with my Ampora?",
         answer:
-          "Every Voltz comes with an 8-year battery warranty and a 5-year or 60,000-mile limited vehicle warranty.",
+          "Every Ampora comes with an 8-year battery warranty and a 5-year or 60,000-mile limited vehicle warranty.",
       },
       {
         question: "Do you offer roadside assistance?",
@@ -105,15 +105,15 @@ export const faqs = [
       {
         question: "Where can I get service?",
         answer:
-          "We offer a network of certified service centers and mobile technicians who can service your Voltz at home or work.",
+          "We offer a network of certified service centers and mobile technicians who can service your Ampora at home or work.",
       },
       {
         question: "Is there a mobile app?",
         answer:
-          "Yes, the Voltz App lets you control climate, schedule charging, locate your vehicle, and access trip analytics.",
+          "Yes, the Ampora App lets you control climate, schedule charging, locate your vehicle, and access trip analytics.",
       },
       {
-        question: "Can I finance or lease a Voltz?",
+        question: "Can I finance or lease a Ampora?",
         answer:
           "Yes, we offer flexible financing and leasing plans through our partners. You can pre-qualify online with no impact on credit.",
       },
